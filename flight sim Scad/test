@@ -1,0 +1,6 @@
+seat();
+module seat()
+{
+rotate([100,0,180]) scale(9.5)import("seat2.stl");
+}
+
